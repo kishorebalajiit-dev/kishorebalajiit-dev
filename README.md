@@ -1,4 +1,3 @@
-```md
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Kishore Balaji V
 
 <p align="center">
@@ -216,4 +215,3 @@ Flutter-Based Drug Awareness Secure Reporting System
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
-```
